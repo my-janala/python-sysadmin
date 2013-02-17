@@ -1,5 +1,7 @@
 ## SSH
 # Connecting to an SSH server and remotely executing a command
+# password to be assigned later
+
 
 #!/usr/bin/env python
 
